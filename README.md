@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome To my Github! 
 
 <!--
 **PeterHUistyping/PeterHUistyping** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🌱 I’m currently learning all different fields in Computer Science.
+- 🔭 You can find lots of interesting Projects and exciting fields that I enjoy in Computer Science.
