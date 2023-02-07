@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🌱 I’m currently learning all different fields in Computer Science.
-- 🔭 You can find lots of interesting Projects and exciting fields that I enjoy in Computer Science.
+- 🔭 You can find lots of interesting Projects and exciting fields that I enjoy in technology.
 - 👯 Love to hear from others and collaborate on things!
