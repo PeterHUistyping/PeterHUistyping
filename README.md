@@ -17,9 +17,10 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning all different areas in Computer Science.
 - 🔭 You can find lots of interesting Projects and exciting fields that I enjoy in technology.
 - 👯 Love to hear from others and collaborate on things!
-<details>
+<!-- <details>
 <summary>📈 Stats</summary>
-<br>
+ <br> -->
+📈 Stats <br> 
 My Github Stats
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PeterHUistyping&theme=default) 
