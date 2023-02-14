@@ -18,9 +18,7 @@ Here are some ideas to get you started:
 - 🔭 You can find lots of interesting Projects and exciting fields that I enjoy in technology.
 - 👯 Love to hear from others and collaborate on things!
 <!-- <details> <summary>📈 Stats</summary> <br> -->
-## 📈 Stats <br> 
-My Github Stats
-
+#### 📈 My Github Stats <br> 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PeterHUistyping&theme=default) 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PeterHUistyping&theme=default) 
