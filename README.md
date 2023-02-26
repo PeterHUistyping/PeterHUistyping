@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning all different areas in Computer Science.
 - 🔭 You can find lots of interesting Projects and exciting fields that I enjoy in technology.
 - 👯 Love to hear from others and collaborate on things!
+
 [![GitHub](https://img.shields.io/github/followers/PeterHuistyping?label=follow&style=social)](https://github.com/PeterHuistyping)
 <!-- <details> <summary>📈 Stats</summary> <br> -->
 #### 📈 My Github Stats <br> 
