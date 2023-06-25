@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <!-- <details> <summary>📈 Stats</summary> <br> -->
 #### 📈 My Github Stats <br> 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PeterHUistyping&theme=default) 
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PeterHUistyping&theme=default) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PeterHUistyping&theme=default)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PeterHUistyping&theme=default) 
