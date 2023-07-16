@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🔭 You can find lots of interesting Projects and exciting fields that I enjoy in technology.
 - 👯 Love to hear from others and collaborate on things!
 
-Here is different collections of the projects I have done grouped by domain.
+Here is some collections of the projects I have done grouped by domain.
 - [Computer_System](https://github.com/PeterHUistyping/Computer_System_Guidance)
 - [Machine_Learning](https://github.com/PeterHUistyping/Machine_Learning_Guidance)
 <!-- <details> <summary>📈 Stats</summary> <br> -->
