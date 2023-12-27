@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 [![GitHub](https://img.shields.io/github/followers/PeterHuistyping?label=follow&style=social)](https://github.com/PeterHuistyping)
 -->
-🌱 [I am](https://peterhuistyping.github.io/) currently exploring while learning all different areas in Computer Science.  
+🌱 [About me](https://peterhuistyping.github.io/)
 
 🔭 Here is some collections of the projects I have done grouped by fields.
   - [Computer_System](https://github.com/PeterHUistyping/Computer_System_Guidance)
