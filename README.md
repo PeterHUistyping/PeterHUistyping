@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   - [Machine_Learning](https://github.com/PeterHUistyping/Machine_Learning_Guidance)
   - [Computer_System](https://github.com/PeterHUistyping/Computer_System_Guidance)
     
-... and many other interesting projects, which I enjoy in technology, scattered in Repo waited to be explored:)
+... and many other projects scattered in Repo waited to be explored:)
 
 👯 Love to hear from others and collaborate on things!  
 
