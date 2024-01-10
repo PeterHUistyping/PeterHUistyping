@@ -24,7 +24,7 @@ Here are some ideas to get you started:
     
 ... and many other projects scattered in Repo waited to be explored:)
 
-👯 Love to hear from others and collaborate on things!  
+👯 Love to collaborate on things and hear from your view!  
 
 <!-- <details> <summary>📈 Stats</summary> <br> -->
 #### 📈 My Github Stats <br> 
