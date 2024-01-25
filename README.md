@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 🌱 [About me](https://peterhuistyping.github.io/)
 
 🔭 Collections of projects & reference by domain, some done by me.
-  - [Visual_Computing](https://github.com/PeterHUistyping/Visual_Computing) | [Machine_Learning](https://github.com/PeterHUistyping/Machine_Learning_Guidance) | [Computer_System](https://github.com/PeterHUistyping/Computer_System_Guidance) | ...
+  - [Visual_Computing](https://github.com/PeterHUistyping/Visual_Computing) | [Machine_Learning](https://github.com/PeterHUistyping/Machine_Learning_Guidance) | [Computer_System](https://github.com/PeterHUistyping/Computer_System_Guidance)
+  <!-- - | ... -->
 
 and many other projects scattered in Repo waited to be explored:)
 
