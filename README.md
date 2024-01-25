@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 🌱 [About me](https://peterhuistyping.github.io/)
 
-🔭 Here are some collections of classical projects and reference by domain. (Some are done by me)
+🔭 Collections of typical projects by domain, with some done by me and many other reference.
   - [Visual_Computing](https://github.com/PeterHUistyping/Visual_Computing) | [Machine_Learning](https://github.com/PeterHUistyping/Machine_Learning_Guidance) | [Computer_System](https://github.com/PeterHUistyping/Computer_System_Guidance) | ...
 
 and many other projects scattered in Repo waited to be explored:)
