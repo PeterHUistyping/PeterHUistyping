@@ -1,4 +1,4 @@
-### Welcome To my Github! 
+### Welcome to my Github! 
 
 <!--
 **PeterHUistyping/PeterHUistyping** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
